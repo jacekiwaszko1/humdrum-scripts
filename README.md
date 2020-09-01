@@ -2,7 +2,7 @@
 
 `tremolator` is a patch to tremolo tool from [craigsapp/humlib](https://github.com/craigsapp/humlib), that adds `*tremolo`/`*Xtremolo` interpretations to each tremolo note encoded with `@n@` markers.
 
-`humlib` tools are not required to use `tremolator`, although it should be easier to have them.
+`humlib` tools are not required to use `tremolator`, since `tremolo` and `tabber` from `humlib` are also implemented as filters in [**Verovio Humdrum Viewer**](http://verovio.humdrum.org).
 
 ## usage
 
